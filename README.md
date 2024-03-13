@@ -3,7 +3,7 @@ Tired of annoying user dialogs, recomended articles and paywalls. Use FreeBlogs 
 
 ## What is Free Blogs?
 
-Free Blogs is a project that redirects you to Freedium, a place where knowledge flows freely, and reading is a right 📚🔓.
+Free Blogs is a project that redirects you to Freedium, a place where knowledge flows freely, and reading is a right 🔓.
 
 ## How to Install 💻
 
