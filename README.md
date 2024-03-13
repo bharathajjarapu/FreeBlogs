@@ -21,7 +21,7 @@ You'll need to install an extension for your browser. It's easy! rather they are
 ### For Firefox Users 🦊
 
 1. Navigate to the [Releases](https://github.com/bharathajjarapu/FreeBlogs/releases/download/1.0/firefox.zip) page.
-2. Download the chrome.zip . 📥
+2. Download the firefox.zip . 📥
 4. Unzip the firefox package and
 5. Navigate to `Settings/Extensions` and click on settings menu. ✅
 6. Click on `install Add-on from a file` and select the unzipped folder file `icon.png` and Accept the stuff
