@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Freedium",
+  "version": "1.0",
+  "description": "Redirects the current page to a specific URL",
+  "permissions": ["tabs"],
+  "action": {
+    "default_icon": "icons.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+} 
