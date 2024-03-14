@@ -1,7 +1,7 @@
-# Free Blogs: Your Gateway to Freedium! 🔓🌐
+# Free Blogs 🔓🌐
 Tired of annoying user dialogs, recomended articles and paywalls. Use FreeBlogs 🦋✨
 
-## What is Free Blogs?
+## What is Free Blogs ?
 
 Free Blogs is a project that redirects you to Freedium, a place where knowledge flows freely, and reading is a right 🔓.
 
@@ -18,6 +18,8 @@ You'll need to install an extension for your browser. It's easy! rather they are
 5. Navigate to `Manage Extensions` and turn on Developer Mode. ✅
 6. Click on load unpacked and select the unzipped folder and Extension is ready to Use..
 
+If you dont want to follow the above procedure checout [Open in Freedium](https://chrome.google.com/webstore/detail/open-in-freedium/giibjnmcmkglpdichdiabecdkeefknak) by `wywywywy` source [code](https://github.com/wywywywy/freedium-browser-extension
+)
 ### For Firefox Users 🦊
 
 1. Navigate to the [Releases](https://github.com/bharathajjarapu/FreeBlogs/releases/download/1.0/firefox.zip) page.
